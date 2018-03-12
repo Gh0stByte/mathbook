@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": "sectionBox_257ioyqlfh",
+        "contentIndex": 0,
+        "title": "What is implicit differentiation?",
+        "text": "What is implicit differentiation? Implicit differentiation is finding the derivative of a statement one piece at a time, then finding the derivative of the whole. \n\n$$4x^2y + 2 y^2x = -7 $$\n\n$$ \\text {Let's look at what we've got. On the left side, the main rule which is being applied is a sum rule. The sum rule states that we can take the derivative of both sides}\n$$",
+        "charts": []
+    }
+]
