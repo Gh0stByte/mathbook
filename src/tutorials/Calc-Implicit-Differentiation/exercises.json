@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": "exerciseBox_smr4sq8ey0",
+        "question": "Find \\(\\frac{\\mathrm dy}{\\mathrm dx}\\) by implicit differentiation of \\(8x^2 - 6y^2 = 25\\)",
+        "answer": "$$\n\\begin{aligned}\n8x^2 - 6y^2 &= 25 &&\\text{Begin by taking the derivative of each side separately}\\\\\n2\\cdot 8x - 2 \\cdot 6y \\cdot y^\\prime &= 0 \\\\\\\\\n16x - 12y \\cdot y^\\prime &= 0 &&\\text{Now that we've taken the derivative of everything, let's solve for } y^\\prime\\\\\n16x &= 12y \\cdot y^\\prime &&\\text{Add the }12y \\cdot y^\\prime\\text{ to both sides}\\\\\n16x\\over{12y} &= y^\\prime&&\\text{Divide by } 12y \\text{ to isolate } y^\\prime\\\\\ny^\\prime &= {16x\\over{12y}}&&\\square\\text{ Rearrange for clarity}\n\n\\end{aligned}\n$$",
+        "exerciseIndex": 0,
+        "chartList": []
+    }
+]
