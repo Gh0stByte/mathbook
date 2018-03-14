@@ -3,7 +3,7 @@
     "title": "Implicit differentiation - Taking derivatives piece by piece",
     "openingStatement": "Implicit differentiation is a twist on what we already know about derivatives. We establish rules which allow us to take derivatives piece by piece, and apply these techniques as a shortcut to finding the derivative of more complex functions. ",
     "preReqs": [],
-    "exerciseStatement": "Find \\(dy/dx\\) by implicit differentiation.",
+    "exerciseStatement": "Find \\(\\frac{dy}{dx}\\) by implicit differentiation.",
     "resources": [],
     "keywords": []
 }
