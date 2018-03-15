@@ -3,7 +3,14 @@
         "id": "sectionBox_257ioyqlfh",
         "contentIndex": 0,
         "title": "What is implicit differentiation?",
-        "text": "What is implicit differentiation? Implicit differentiation is finding the derivative of a statement one piece at a time, then finding the derivative of the whole. \n\n$$4x^2y + 2 y^2x = -7 $$\n\n$$ \\text {Let's look at what we've got. On the left side, the main rule which is being applied is a sum rule. The sum rule states that we can take the derivative of both sides}\n$$",
+        "text": "What is implicit differentiation? Implicit differentiation is using the rules of derivatives to take the derivative one piece at a time, then solving for the derivative of the function. With implicit differentiation both \\(x\\text{ and }y\\) are involved. \n\nIt's called implicit because you are implying that the derivative of \\(y \\text{ is } y^\\prime\\). We know that the derivative of any function is the derivative of that function, and that's what this statement is saying. \n$$\n\\begin{aligned}\nf(x) = y && f^\\prime(x) = y^\\prime &&\\text{The derivative of any function is the derivative of that function}\n\\end{aligned}\n$$",
+        "charts": []
+    },
+    {
+        "id": "sectionBox_hsmyywtnvc",
+        "contentIndex": 1,
+        "title": "Why do we use implicit differentiation?",
+        "text": "There are many cases where functions \\(y\\) aren't defined in terms of \\(x\\) and cannot be easily manipulated to state it as such. \n\nTake this equation for example. You have \\(y\\) in multiple places. To solve this problem explicitly, you would need to first solve the equation for \\(y\\), then take the derivative as you're used to. \n$$4x^2y + 2 y^2x = -7 $$\n\nHowever, with implicit differentiation, we know that the derivative of \\(y\\) is \\(y^\\prime\\), so let's take the derivative of each side of the function, and then solve for \\(y^\\prime\\).\n\n$$\n\\begin{aligned}\n \\text {Let's look at what we've got. On the left side, the main rule which is being applied is a sum rule. The sum rule states that we can take the derivative of both sides}\n\\end{aligned}\n$$\n",
         "charts": []
     }
 ]
